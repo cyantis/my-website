@@ -64,7 +64,7 @@ header {
 
 .menu li {
 	float: left;
-	width: 24.7%;
+	width: 19.5%;
 	height: 100%;
 	display: block;
 	text-align: center;
@@ -133,6 +133,13 @@ a.active {
 	transition: background-color 0.5s ease-in-out;
 }
 
+.menu li:nth-child(5):hover {
+	top: 90px;
+	background-color: #379994;
+	-webkit-transition: background-color 0.5s ease-in-out;
+	transition: background-color 0.5s ease-in-out;
+}
+
 footer {
 	border-top-style: solid;
 	border-width: 1.75px;
@@ -154,7 +161,7 @@ footer img {
 	body {font-size: 1.50em;}
 	h1 {font-size: 3.25em;}
 	.menu {height: 47px;}
-	.menu li {width: 24.6%}
+	.menu li {width: 19.6%}
 }
 
 /* max display 767px */
