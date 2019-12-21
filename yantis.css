@@ -1,7 +1,7 @@
 body {
 	font-size: x-large;
-	font-family: 'Sumana', serif;
-	color: ##222222;
+	font-family: 'Merriweather', serif;
+	color: #222222;
 	line-height: 1.5em;
 	width: 80%;
 	max-width: 850px;
@@ -10,13 +10,13 @@ body {
 }
 
 p {
-    font-size: .85em;
+    font-size: .8em;
 }
 
 h1 {
 	font-size: 3.25em;
 	text-align: center;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Staatliches', sans-serif;
 	font-weight:100;
 }
 
@@ -44,23 +44,23 @@ header {
 #image img {
 	width: 49%;
 	margin: .5em auto 0 auto;
-	border-radius: 3px;
+	/*border-radius: 3px;*/
 }
 
 .round_photo {
 	margin: 1.5em auto 0 auto;
 	width: 400px;
-	border-radius: 3px;
+	/*border-radius: 3px;*/
 }
 
 .menu {
 	list-style: none;
 	padding: 0;
 	width: 100%;
-	height: 47px;
+	height: 50px;
 	position: relative;
-	font-family: 'Oswald', sans-serif;
-	font-size: .85em;
+	font-family: 'Staatliches', sans-serif;
+	font-size: .92em;
 }
 
 .menu li {
@@ -74,7 +74,7 @@ header {
 	border: solid;
 	border-width: 1px;
 	border-color: #fff;
-  border-radius: 3px;
+  /*border-radius: 3px;*/
 	-webkit-transition: background-color 0.5s ease-in-out;
 	transition: background-color 0.5s ease-in-out;
 }
@@ -109,36 +109,36 @@ a.active {
 .menu li:nth-child(1):hover {
 	top: 0;
 	background-color: #666666;
-	-webkit-transition: background-color 0.5s ease-in-out;
-	transition: background-color 0.5s ease-in-out;
+	-webkit-transition: background-color 0.3s ease-in-out;
+	transition: background-color 0.3s ease-in-out;
 }
 
 .menu li:nth-child(2):hover {
 	top: 30px;
 	background-color: #666666;
-	-webkit-transition: background-color 0.5s ease-in-out;
-	transition: background-color 0.5s ease-in-out;
+	-webkit-transition: background-color 0.3s ease-in-out;
+	transition: background-color 0.3s ease-in-out;
 }
 
 .menu li:nth-child(3):hover {
 	top: 60px;
 	background-color: #666666;
-	-webkit-transition: background-color 0.5s ease-in-out;
-	transition: background-color 0.5s ease-in-out;
+	-webkit-transition: background-color 0.3s ease-in-out;
+	transition: background-color 0.3s ease-in-out;
 }
 
 .menu li:nth-child(4):hover {
 	top: 90px;
 	background-color: #666666;
-	-webkit-transition: background-color 0.5s ease-in-out;
-	transition: background-color 0.5s ease-in-out;
+	-webkit-transition: background-color 0.3s ease-in-out;
+	transition: background-color 0.3s ease-in-out;
 }
 
 .menu li:nth-child(5):hover {
 	top: 90px;
 	background-color: #666666;
-	-webkit-transition: background-color 0.5s ease-in-out;
-	transition: background-color 0.5s ease-in-out;
+	-webkit-transition: background-color 0.3s ease-in-out;
+	transition: background-color 0.3s ease-in-out;
 }
 
 footer {
