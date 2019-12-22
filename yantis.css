@@ -47,10 +47,10 @@ header {
 	/*border-radius: 3px;*/
 }
 
-.round_photo {
-	margin: 1.5em auto 0 auto;
-	width: 400px;
-	/*border-radius: 3px;*/
+.profile_photo {
+	margin: .5em auto 0 auto;
+	width: 275px;
+	border-radius: 20px;
 }
 
 .menu {
